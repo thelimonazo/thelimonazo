@@ -14,7 +14,7 @@
 <p style="display: flex; align-items: center; justify-content: space-around">
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5.png" alt="html-5"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  <img width="80" height="80" src="https://img.icons8.com/officel/80/php-logo.png" alt="php-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/officel/80/php-logo.png" alt="php-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>    
